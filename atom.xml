@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-06T10:49:02.837Z</updated>
+  <updated>2020-08-07T09:26:30.222Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,21 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>图片测试</title>
-    <link href="http://yoursite.com/2020/08/06/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
-    <id>http://yoursite.com/2020/08/06/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</id>
-    <published>2020-08-06T10:48:54.000Z</published>
-    <updated>2020-08-06T10:49:02.837Z</updated>
+    <title>Minecraft‘伺服器</title>
+    <link href="http://yoursite.com/2020/08/07/Minecraft/"/>
+    <id>http://yoursite.com/2020/08/07/Minecraft/</id>
+    <published>2020-08-07T09:10:24.000Z</published>
+    <updated>2020-08-07T09:26:30.222Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2020/08/06/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/%5Cimages%5Cpasted-5.png%5C" alt="upload successful"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<h2 id="Minecraft‘伺服器"><a href="#Minecraft‘伺服器" class="headerlink" title="Minecraft‘伺服器"></a>Minecraft‘伺服器</h2><p>歡迎來到我的博客，本人會不定期開MC伺服器，歡迎遊玩</p><h3 id="如何找到我們"><a href="#如何找到我們" class="headerlink" title="如何找到我們"></a>如何找到我們</h3><p>QQ群：420212082<br>discord：<a href="https://discord.gg/m6VBe5d">幸福亲亲群</a><br>YY:1460835234</p><h3 id="請我們喝奶茶"><a href="#請我們喝奶茶" class="headerlink" title="請我們喝奶茶"></a>請我們喝奶茶</h3><p>我不會放收款碼，等我會了再說</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/2020/08/06/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/%5Cimages%5Cpasted-5.png%5C&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
-&lt;script&gt;
-        doc
+        &lt;h2 id=&quot;Minecraft‘伺服器&quot;&gt;&lt;a href=&quot;#Minecraft‘伺服器&quot; class=&quot;headerlink&quot; title=&quot;Minecraft‘伺服器&quot;&gt;&lt;/a&gt;Minecraft‘伺服器&lt;/h2&gt;&lt;p&gt;歡迎來到我的博客，本人會不定期開MC伺服器，歡迎遊玩
       
     
     </summary>
